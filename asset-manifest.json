@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Priyanka-chougale/dairy-shopping-cart.git/static/css/main.bb0a047f.css",
-    "main.js": "/Priyanka-chougale/dairy-shopping-cart.git/static/js/main.20430867.js",
-    "static/js/787.9f1f0229.chunk.js": "/Priyanka-chougale/dairy-shopping-cart.git/static/js/787.9f1f0229.chunk.js",
-    "index.html": "/Priyanka-chougale/dairy-shopping-cart.git/index.html",
-    "static/media/crossIcon.svg": "/Priyanka-chougale/dairy-shopping-cart.git/static/media/crossIcon.d69dc0dbf0bb1083a3026c61288b5b5f.svg",
-    "main.bb0a047f.css.map": "/Priyanka-chougale/dairy-shopping-cart.git/static/css/main.bb0a047f.css.map",
-    "main.20430867.js.map": "/Priyanka-chougale/dairy-shopping-cart.git/static/js/main.20430867.js.map",
-    "787.9f1f0229.chunk.js.map": "/Priyanka-chougale/dairy-shopping-cart.git/static/js/787.9f1f0229.chunk.js.map"
+    "main.css": "/Priyanka-chougale/static/css/main.bb0a047f.css",
+    "main.js": "/Priyanka-chougale/static/js/main.48c803e1.js",
+    "static/js/787.9f1f0229.chunk.js": "/Priyanka-chougale/static/js/787.9f1f0229.chunk.js",
+    "index.html": "/Priyanka-chougale/index.html",
+    "static/media/crossIcon.svg": "/Priyanka-chougale/static/media/crossIcon.d69dc0dbf0bb1083a3026c61288b5b5f.svg",
+    "main.bb0a047f.css.map": "/Priyanka-chougale/static/css/main.bb0a047f.css.map",
+    "main.48c803e1.js.map": "/Priyanka-chougale/static/js/main.48c803e1.js.map",
+    "787.9f1f0229.chunk.js.map": "/Priyanka-chougale/static/js/787.9f1f0229.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb0a047f.css",
-    "static/js/main.20430867.js"
+    "static/js/main.48c803e1.js"
   ]
 }
